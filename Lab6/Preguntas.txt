@@ -1,0 +1,8 @@
+Por qué es una buena práctica usar JavaScript para checar que sean válidos los inputs de las formas antes de enviar los datos al servidor?
+ porque mejora la experiencia del usuario al dar retroalimentación inmediata, aunque no reemplaza la validación del lado del servidor.
+
+¿Cómo puedes saltarte la seguridad de validaciones hechas con JavaScript?
+Enviendo por medio de HTTPS
+
+Si te puedes saltar la seguridad de las validaciones de JavaScript, entonces ¿por qué la primera pregunta dice que es una buena práctica?
+Reducen peticiones innecesarias al servidor
