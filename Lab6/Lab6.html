@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Looking for Totorro</title>
+        <meta charset="UTF-8">
+        <link rel="stylesheet" type="text/css" href="Lab6.css">
+    </head>
+    <body>
+    <header>
+        <div class="barraTar">
+            <div class="barra-left">
+                <h1 class="title">Are u Totorro?</h1>
+                <img src="herramientas/Logo.jpg" alt="Logo" class="logo"> 
+            </img>
+            </div>
+            <div class="barra-right">
+                <button class="barra-button" id="Info" onclick="acercaDe()">Totoro won´t come back...</button>
+            </div>
+    </header>
+    <div class="conteiner">
+        <h1>Iniciar Sesion</h1>
+        <form>
+            <label for="user"><b>Usuario</b></label>
+            <input type="text" placeholder="Ingresar usuario" name="user" required>
+
+            <label for="contrasena"><b>Contraseña</b></label>
+            <input type="password" placeholder="Ingresar contraseña" name="contrasena" required>
+
+            <button type="submit" id="Loggeado" onclick="loggeado()">Log In</button>
+            <label>
+                <input type="checkbox" checked="checked" name="recordarme"> Recordarme
+            </label>
+        </form>
+    </div>
+    </body>
+    <script src="Lab6.js"></script>
+</html>
