@@ -1,0 +1,15 @@
+¿Qué diferencias y semejanzas hay entre Java y JavaScript?
+Java es un lenguaje compilado, mientras que JavaScript es interpretad y se usa principalmente usado en desarrollo web.
+
+¿Qué métodos tiene el objeto Date? (Menciona al menos 5*)
+getFullYear(), getMonth(), getDate(), getHours(), getMinutes()
+
+¿Qué métodos tienen los arreglos? (Menciona al menos 5*)
+push(), pop(), shift(), unshift(), slice()
+
+¿Cómo se declara una variable con alcance local dentro de una función?
+let or const
+
+¿Qué implicaciones tiene utilizar variables globales dentro de funciones?
+Pueden causar efectos secundarios no deseados 
+
