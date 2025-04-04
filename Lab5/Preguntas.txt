@@ -1,0 +1,1 @@
+Tailwind CSS es un framework de CSS que permite diseñar interfaces rápidamente aplicando clases predefinidas directamente en el HTML. En lugar de escribir CSS personalizado, usa clases, lo que acelera el desarrollo sin salirte del HTML.
