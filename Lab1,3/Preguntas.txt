@@ -1,0 +1,56 @@
+
+----------------------Lab1----------------------------
+
+¿Cuál es la diferencia entre Internet y la World Wide Web?
+El World wide Web (WWW) es un sistema de información basado en hipertextos accesible a través de Internet. Usa  protocolo HTTP y se visualiza con navegadores.
+
+¿Cuáles son las partes de un URL?
+Protocolo
+Dominio
+Ruta
+
+¿Cuál es el propósito de los métodos HTTP: GET, HEAD, POST, PUT, PATCH, DELETE?
+GET: Solicitar.
+HEAD: Igual que GET, pero sin cuerpo en la respuesta solo el header.
+POST: Enviar datos.
+PUT: Reemplazar un recurso existente con nuevos datos.
+PATCH: Actualizar.
+DELETE: Eliminar un recurso.
+
+¿Qué método HTTP se debe utilizar al enviar un formulario HTML, por ejemplo cuando ingresas tu usuario y contraseña en algún sitio? ¿Por qué?
+Posr
+
+¿Qué método HTTP se utiliza cuando a través de un navegador web se accede a una página a través de un URL?
+Get
+
+Un servidor web devuelve una respuesta HTTP con código 200. ¿Qué significa esto? ¿Ocurrió algún error?
+Que todo ocurrio de manera correcra, no es un error.
+
+¿Es responsabilidad del desarrollador corregir un sitio web si un usuario reporta que intentó acceder al sitio y se encontró con un error 404? ¿Por qué?
+No, es asunto cliente servidor.
+
+¿Es responsabilidad del desarrollador corregir un sitio web si un usuario reporta que intentó acceder al sitio y se encontró con un error 500? ¿Por qué?
+Si, por ser un error interno.
+
+¿Qué significa que un atributo HTML5 esté depreciado o desaprobado (deprecated)? Menciona algunos elementos de HTML 4 que en HTML5 estén desaprobados.
+Elementos que ya no se usan en practica.
+
+¿Cuáles son las diferencias principales entre HTML 4 y HTML5?
+Ciertas funciones extras en el HTML5.
+
+¿Qué componentes de estructura y estilo tiene una tabla?
+<tr><th>
+
+----------------------Lab3----------------------------
+
+Como ingeniero de software ¿cuál es tu recomendación sobre el uso de !important en un CSS? 
+No usar.
+
+Si se pone una imagen de fondo en una página HTML, ¿por qué debe escogerse con cuidado?
+Por la resolucion de esta imagen.
+
+Como ingeniero de software, ¿cuál es tu recomendación al elegir las unidades de un propiedad de estilo entre %, px y pt?
+Pues depende el problema, para algo ajustable talvez o no? Yo suelo usar px siempre el borders y paddings por ejempmlo, pero para estructurar divs uso %.
+
+¿Por qué el uso de una versión minimizada del CSS mejora el rendimiento del sitio?
+El archivo se descarga mas rapido.
