@@ -1,0 +1,3 @@
+Describe el archivo package.json.
+
+El package Json es básicamente la columna de un servidor lo que describe como interacciona todo entre si y sus dependencias. Este se encontrara siempre en el archivo central del proyecto y es generado por el NPM.
