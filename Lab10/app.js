@@ -6,11 +6,9 @@ const bodyParser = require('body-parser');
 const app = express();
 const PORT = 3000;
 
-// Middleware para leer datos del formulario
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(express.static('views'));
 
-// Rutas
 app.get('/', (req, res) => {
   res.sendFile(path.join(__dirname, 'views', 'index.html'));
 });
