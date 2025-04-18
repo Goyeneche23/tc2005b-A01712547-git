@@ -1,0 +1,2 @@
+Nombre: Juan Jose, Mensaje: Este es un mensaje desde formulario usando ejs 
+Nombre: administrator, Mensaje: mensaje final todo joya
