@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Personajes de Game of Thrones</title>
+</head>
+<body>
+    <h1>Personajes de Game of Thrones</h1>
+    <form action="/personajes" method="POST">
+        <input type="text" name="nombre" placeholder="Nombre del personaje" required>
+        <input type="text" name="casa" placeholder="Casa" required>
+        <button type="submit">Agregar</button>
+    </form>
+    <ul>
+        <% personajes.forEach(p => { %>
+            <li><strong><%= p.nombre %></strong> - Casa <%= p.casa %></li>
+        <% }) %>
+    </ul>
+</body>
+</html>

@@ -1,0 +1,13 @@
+¿Qué beneficios encuentras en el estilo MVC?
+Mayor organización, separación de archivos y reutilización del codigo, y facilidad de mantenimiento. Asi como también probablemente ayuda en cuestiones de seguridad.
+
+¿Encuentras alguna desventaja en el estilo arquitectónico MVC?
+Puede ser mas complejo en temas de código y rutas, y esto para proyectos pequeños puede ser contraproducente.
+
+Notas
+npm init -y
+npm install ejs express body-parser
+pm2 start index.js --watch
+
+
+Se elimino la carpte nodemodules para poder subirlo a git
