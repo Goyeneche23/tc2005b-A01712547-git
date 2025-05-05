@@ -1,0 +1,43 @@
+1. Gestión de Proyectos
+Los proyectos suelen fallar por cambios en los requisitos, escasa participación de los usuarios y mala comunicación.
+¿Al asignar roles de trabajo como en un futuro asegurar que todos los integrantes puedan ayudar, y tengan un entendimiento amplio del proyecto?
+
+2. Sistemas de Información en los Negocios
+¿Qué riesgos enfrentan las empresas que no alinean su estrategia digital con los objetivos del negocio, y cómo puede un sistema de información mitigar esos riesgos?
+
+3. Gestión del Alcance
+La WBS permite dividir el proyecto en partes más manejables y controlables.
+¿Como puede afectar el cliente durante la planificación del alcance, y cómo puede influir en la precisión de la WBS?
+
+4. Bases de Datos y DBMS
+Un DBMS sirve para administrar nuestro database y realizar consultas, meter datos, eliminarlos, etc.
+¿Porque usariamos MySQL en lugar de MARIADB, siendo este de codigo abierto?
+
+5. Notación MER y Reglas Adicionales
+Las restricciones adicionales permiten reflejar condiciones de negocio que no se ven en el diagrama.
+¿Qué herramientas y enfoques usarías para asegurar que estas reglas se implementen correctamente en el esquema relacional y funcionen como se espera en el DBMS?
+
+6. Reglas de Traslado MER a MR
+ESte traslado muestra a mas detalle incluso con ejemplos de datos y a mas detalle como se relacionan las tablas.
+No seria mas efectivo realizar directamente el MR, cuando se tiene un entendimiento claro del problema?
+
+7. Gestión de la Comunicación
+La comunicación efectiva requiere adaptar el canal al público objetivo.
+¿Qué mecanismos implementarías para recoger retroalimentación tras la entrega de reportes y ajustar el proceso comunicativo según las expectativas?
+
+8. Modelo Relacional y Álgebra Relacional
+El modelo relacional permite independencia entre cómo se guardan y cómo se consultan los datos.
+¿Cuál es el impacto de una mala elección de claves primarias y foráneas sobre la integridad referencial en el modelo relacional, osea se problemas logicos de dependencia?
+
+9. Diagramas de Secuencia
+Los diagramas de secuencia muestran toda la interaccion entre usuario, servidor y todo el proceso.
+¿Para que actividades conviene realizar un diagrama de secuencia, ya que es demasiado trabajo para una sola tarea?
+
+10. SQL, Funciones Agregadas y Agrupación
+Las funciones agregadas permiten analizar grandes volúmenes de datos por grupos y segmentaciones.
+¿Existen casos donde NOT In se deba ocupar antes que IN?
+
+11. Subconsultas en SQL
+Las subconsultas permiten filtrar registros según resultados dinámicos.
+¿Qué buenas prácticas se deben seguir al diseñar subconsultas anidadas para asegurar la legibilidad y mantenibilidad del código SQL, esto cuando en nuestro caso al ser tres personas en cosnsulras grandes esto puede perjudicar la entendibilidad de la consulta?
+
